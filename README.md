@@ -14,13 +14,14 @@ Actually this part and navbar's shop part same thing. You can go to shop page fr
 
 ![Ekran görüntüsü 2024-07-15 195335](https://github.com/user-attachments/assets/4f83a83b-ee50-411b-a4f1-4827e4d0915b)
 
-If your customer wants to contact with you they can use here. I built here with Javascript If your customer uses number in name-surname inputs they'll get a alert like "you cannot use numbers in name-surname" and I made a check function for check the customer's mail if mail doesn't have "@" or ".com" they'll get a alert like "your mail is invalid" 
-
-![Ekran görüntüsü 2024-07-15 195345](https://github.com/user-attachments/assets/b01fe9dd-fd06-4eaf-a511-2a7073cef15e)
-
 Also I added a basic system. When your customer enter his information and opinions these are saving in console. This is front-end work normally these things should send to web site founder
 
 ![Ekran görüntüsü 2024-07-15 211326](https://github.com/user-attachments/assets/dcfa19fe-72e3-43a4-872f-d5615ed3ddd2)
+
+
+If your customer wants to contact with you they can use here. I built here with Javascript If your customer uses number in name-surname inputs they'll get a alert like "you cannot use numbers in name-surname" and I made a check function for check the customer's mail if mail doesn't have "@" or ".com" they'll get a alert like "your mail is invalid" 
+
+![Ekran görüntüsü 2024-07-15 195345](https://github.com/user-attachments/assets/b01fe9dd-fd06-4eaf-a511-2a7073cef15e)
 
 
 And this is our last stop for main page. Our coffe shop's social media, phone number and mail is here. Also we can go to main page, carrer (I didn't build but If I do that look like main page) and shop page.
