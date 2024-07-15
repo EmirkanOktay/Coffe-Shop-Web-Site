@@ -18,7 +18,7 @@ If your customer wants to contact with you they can use here. I built here with 
 
 ![Ekran görüntüsü 2024-07-15 195345](https://github.com/user-attachments/assets/b01fe9dd-fd06-4eaf-a511-2a7073cef15e)
 
-And this is our last stop for main page. Our coffe shop's social media, phone number and mail is here. Also we can go to main page, carrer (I didn't built but If I do that look like main page) and shop page.
+And this is our last stop for main page. Our coffe shop's social media, phone number and mail is here. Also we can go to main page, carrer (I didn't build but If I do that look like main page) and shop page.
 
 You can reach to shop with 3 way :
 Navbar
