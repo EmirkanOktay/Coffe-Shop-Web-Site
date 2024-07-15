@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    width: 100%;
+    height: 27vh;
+    background-color: black;
+    flex-direction: row;
+    position: relative;
+    text-align: center;
+    top: 20%;
+}
+
+.footer .general {
+   float: left;
+   position: relative;
+   left: 15%;
+   padding-top: 2%;
+   
+}
+
+.footer .general a{
+    display: block;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer .general a:hover{
+    color: orange;
+    transition: 0.2s;
+}
+
+.footer .contact-footer
+{
+    overflow: hidden;
+    position: relative;
+    right: 1%;
+     padding-top: 2%;
+}
+
+.contact-footer h3{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.contact-footer i{
+    display: block;
+    margin-bottom: 10px;
+    overflow-Y: hidden
+
+}
+.contact-footer a{
+    margin-left: 5px;
+}
+
+.footer .social-media{
+position: relative;
+float: right;
+right: 15%;
+margin-top: -5%;
+}
+
+.social-media h3 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.social-media i {
+    margin-right: 10px;
+}
+
+.social-media i span {
+    font-weight: 100 !important;
+}
+
+.footer .copy{
+    margin-top: 10px;
+    color: white;
+}
+
+.copy p  {
+    margin-top: 20px;
+}

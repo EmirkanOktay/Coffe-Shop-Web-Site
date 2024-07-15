@@ -1,0 +1,128 @@
+@media(max-width :1024px) and (min-width : 768px)
+{
+    *{
+        overflow-x: hidden;
+    }
+   .nav{
+    display: none;
+   }
+   .text-wrap{
+    overflow: hidden;
+   }
+   .text-wrap .right-text{
+    margin-top: -38%;
+   }
+
+   #history{
+   display: none;
+   }
+
+
+   .order {
+    position: relative;
+    padding-top: 0%;
+   }
+.order-wrap{
+    overflow: hidden;
+
+}
+
+#shop{
+    height: 60vh;
+}
+   .order h2{
+    font-size: 30px;
+   }
+
+   .order h3{
+  font-size: 25px;
+   }
+
+   .order a{
+    padding: 10px;
+    pointer-events: none;
+   }
+
+.contact-wrapper{
+    pointer-events: none;
+}
+
+.footer .social-media{
+position: relative;
+right: 50%;
+margin-top: -8%;
+}
+
+.contact-footer{
+    position: relative;
+  
+}
+}   
+
+@media (max-width : 767px)
+{
+    *{
+        overflow-x: hidden;
+    }
+   .nav{
+    display: none;
+   }
+   .text-wrap{
+    overflow: hidden;
+    height: 100vh;
+    margin-top: -30%;
+    margin-left: 25%;
+   }
+    .left-text{
+    font-size: 15px !important;
+    position: relative;
+    
+   }
+   .text-wrap .right-text{
+   display: none;
+   }
+
+   #history{
+   display: none;
+   }
+   .order {
+    position: relative;
+    padding-top: 0%;
+   }
+.order-wrap{
+    overflow: hidden;
+
+}
+
+#shop{
+    height: 60vh;
+}
+   .order h2{
+    font-size: 30px;
+   }
+
+   .order h3{
+  font-size: 25px;
+   }
+
+   .order a{
+    padding: 10px;
+    pointer-events: none;
+   }
+
+.contact-wrapper{
+    pointer-events: none;
+}
+
+.footer .social-media{
+position: relative;
+right: 46%;
+margin-top: -14%;
+}
+
+.contact-footer{
+    position: relative;
+    margin-left: 30%;
+}
+
+}

@@ -1,0 +1,69 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#history {
+    width: 100%;
+    height: 130vh;
+    background-image: url(photos/photo3.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-size: 23px;
+}
+
+.history-wrap{
+    width: 100%;
+    position: relative;
+    height: 130vh;
+   opacity: 0;
+}
+
+
+#history p, #history h3 {
+    text-align: center;
+    opacity: 100% !important;
+}
+
+#history h3 {
+    font-size: 40px !important;
+    margin-bottom: 15px;
+}
+
+#history .left-his {
+    opacity: 1;
+    position: relative;
+    width: 25%;
+    left: 15%;
+    background-color: rgba(36, 36, 36, 0.8);
+    top: 30%;
+    padding: 20px; 
+}
+
+.history-wrap .right-his {
+    opacity: 1;
+    background-color: rgba(36, 36, 36, 0.8); 
+    float: right;
+    width: 25%;
+    position: relative;
+    right: 18%;
+    margin-top: -11%;
+    padding: 20px;
+}
+
+@keyframes anim2 {
+    from {
+        opacity: 00%;
+    }
+    to {
+        opacity: 100%;
+    }
+}
+
+
+.history-wrap:hover{
+    animation-name: anim2;
+    animation-duration: 2s;
+} 
